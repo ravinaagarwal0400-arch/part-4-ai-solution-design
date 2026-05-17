@@ -1,33 +1,5 @@
 # PART 4 — AI SOLUTION DESIGN FOR A BUSINESS PROBLEM
 
-# Selected Domain: Manufacturing
-
-This solution focuses on:
-
-## AI-Based Manufacturing Defect Detection System
-
-The solution uses:
-- Computer Vision
-- CNN-based Image Classification
-- Automated Quality Inspection
-
-This aligns well with the Part 2 CNN defect detection project.
-
----
-
-# Recommended Repository Structure
-
-```text
-part-4-ai-solution-design/
-│
-├── README.md
-├── solution_report.md
-└── diagrams/
-    └── solution_architecture.png
-```
-
----
-
 # TASK 1: Choose a Business Domain
 
 ## Selected Domain: Manufacturing
